@@ -1,0 +1,81 @@
+aid: diligent-robotics
+name: Diligent Robotics
+description: >-
+  Diligent Robotics is an Austin, Texas-based healthcare robotics company
+  founded in 2017 by Andrea Thomaz (CEO) and Vivian Chu (CIO), both trained
+  as roboticists at MIT, Georgia Tech, and the University of Texas at Austin.
+  The company builds Moxi, a socially intelligent mobile manipulator that
+  operates autonomously inside hospitals to handle non-clinical material
+  transport — delivering medications, lab samples, supplies, PPE, and
+  patient items so nurses and clinical staff can focus on patient care.
+  Moxi combines mobile manipulation (grasping, opening doors, riding
+  elevators), social navigation, and human-guided learning, and is
+  deployed 24/7 with minimal facility infrastructure (existing Wi-Fi).
+  Operationally, Moxi has logged 500,000+ deliveries and 100,000+
+  autonomous elevator rides across customer hospitals including UTMB,
+  Shannon Health, ThedaCare, Carilion Giles Community Hospital, and
+  Medical City Denton. The platform is HIPAA compliant, SOC 2 Type II
+  audited, and TX-RAMP Level 2 certified. Diligent has raised roughly
+  $100M across rounds led by Canaan, True Ventures, Tiger Global, DNX
+  Ventures, Next Coast Ventures, and Northwestern Medicine Innovation.
+  Diligent's revenue model is robot deployment/leasing and enterprise
+  services; there is no public developer API, SDK, or open-source
+  release for Moxi or its underlying robotics stack.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Robotics
+  - Healthcare Robotics
+  - Hospital Automation
+  - Service Robots
+  - Mobile Manipulation
+  - Social Robots
+  - Autonomous Delivery
+  - Moxi
+  - Embodied AI
+  - Human-Robot Interaction
+  - Healthcare
+  - Hospitals
+  - Nursing
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/diligent-robotics/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.diligentrobots.com
+  - type: Product
+    url: https://www.diligentrobots.com/moxi
+  - type: About
+    url: https://www.diligentrobots.com/about
+  - type: CaseStudies
+    url: https://www.diligentrobots.com/case-studies
+  - type: FAQ
+    url: https://www.diligentrobots.com/faq
+  - type: Blog
+    url: https://www.diligentrobots.com/blog
+  - type: Press
+    url: https://www.diligentrobots.com/press
+  - type: Careers
+    url: https://www.diligentrobots.com/join-our-team-1
+  - type: Contact
+    url: https://www.diligentrobots.com/contact
+  - type: Demo
+    url: https://www.diligentrobots.com/demo
+  - type: PrivacyPolicy
+    url: https://www.diligentrobots.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.diligentrobots.com/terms-conditions
+  - type: GitHubOrganization
+    url: https://github.com/DiligentRobotics
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/diligent-robotics
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/diligent-robotics
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
