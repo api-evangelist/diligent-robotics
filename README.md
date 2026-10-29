@@ -1,4 +1,4 @@
-# diligent-robotics
+# Diligent Robotics
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Diligent Robotics — hospital service robot (Moxi) for medication, lab, and supply delivery
+Diligent Robotics is an Austin, Texas-based healthcare robotics company founded in 2017 by Andrea Thomaz (CEO) and Vivian Chu (CIO), both trained as roboticists at MIT, Georgia Tech, and the University of Texas at Austin. The company builds Moxi, a socially intelligent mobile manipulator that operates autonomously inside hospitals to handle non-clinical material transport — delivering medications, lab samples, supplies, PPE, and patient items so nurses and clinical staff can focus on patient care. Moxi combines mobile manipulation (grasping, opening doors, riding elevators), social navigation, and human-guided learning, and is deployed 24/7 with minimal facility infrastructure (existing Wi-Fi). Operationally, Moxi has logged 500,000+ deliveries and 100,000+ autonomous elevator rides across customer hospitals including UTMB, Shannon Health, ThedaCare, Carilion Giles Community Hospital, and Medical City Denton. The platform is HIPAA compliant, SOC 2 Type II audited, and TX-RAMP Level 2 certified. Diligent has raised roughly $100M across rounds led by Canaan, True Ventures, Tiger Global, DNX Ventures, Next Coast Ventures, and Northwestern Medicine Innovation. Diligent's revenue model is robot deployment/leasing and enterprise services; there is no public developer API, SDK, or open-source release for Moxi or its underlying robotics stack.
+
+**Areas:** Robotics · Healthcare Robotics · Hospital Automation · Service Robots · Mobile Manipulation · Social Robots · Autonomous Delivery · Moxi · Embodied AI · Human-Robot Interaction · Healthcare · Hospitals
+
+## Diligent Robotics on APIs.io
+
+Everything profiled for Diligent Robotics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/diligent-robotics/](https://apis.io/providers/diligent-robotics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Diligent Robotics Domain Security](https://apis.io/security/diligent-robotics/diligent-robotics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.diligentrobots.com)
+- [Blog](https://www.diligentrobots.com/blog)
+- [Terms of service](https://www.diligentrobots.com/terms-conditions)
+- [Privacy policy](https://www.diligentrobots.com/privacy-policy)
+- [GitHub](https://github.com/DiligentRobotics)
+
+## API Evangelist rating
+
+**Kin Score 9.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/diligent-robotics/](https://apis.io/providers/diligent-robotics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Diligent Robotics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/diligent-robotics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
